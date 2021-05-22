@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon/about.png</file>
+        <file>icon/add.png</file>
+        <file>icon/alert.png</file>
+        <file>icon/close.png</file>
+        <file>icon/delete.png</file>
+        <file>icon/filter.png</file>
+        <file>icon/new.png</file>
+        <file>icon/open.png</file>
+        <file>icon/print.png</file>
+        <file>icon/save.png</file>
+        <file>icon/saveAs.png</file>
+        <file>icon/search .png</file>
+        <file>icon/soft.png</file>
+        <file>icon/softSmall.png</file>
+        <file>icon/sort.png</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>stylesheet/black.qss</file>
+        <file>stylesheet/none.qss</file>
+        <file>stylesheet/studentMS.qss</file>
+        <file>stylesheet/white.qss</file>
+    </qresource>
+</RCC>
